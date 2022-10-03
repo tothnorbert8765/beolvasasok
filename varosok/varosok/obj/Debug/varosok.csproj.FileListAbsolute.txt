@@ -1,0 +1,7 @@
+Z:\13.osztály\varosok\varosok\bin\Debug\varosok.exe.config
+Z:\13.osztály\varosok\varosok\bin\Debug\varosok.exe
+Z:\13.osztály\varosok\varosok\bin\Debug\varosok.pdb
+Z:\13.osztály\varosok\varosok\obj\Debug\varosok.csproj.AssemblyReference.cache
+Z:\13.osztály\varosok\varosok\obj\Debug\varosok.csproj.CoreCompileInputs.cache
+Z:\13.osztály\varosok\varosok\obj\Debug\varosok.exe
+Z:\13.osztály\varosok\varosok\obj\Debug\varosok.pdb

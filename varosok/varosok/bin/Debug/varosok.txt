@@ -1,0 +1,21 @@
+Helyezés;Város;Ország;Népesség
+1;Tokió;Japán;37868229
+2;Sanghaj;Kína;34000000
+3;Jakarta;Indonézia;31689592
+4;Szöul;Dél-Korea;25514000
+5;Kanton;Kína;25000000
+6;Peking;Kína;24900000
+7;Manila;Fülöp-szigetek;29300000
+8;New York;Egyesült Államok;23522861
+9;Sencsen;Kína;23300000
+10;Delhi;India;21753486
+11;Mexikóváros;Mexikó;21650668
+12;São Paulo;Brazília;21500000
+13;Lagos;Nigéria;21000000
+14;Mumbai;India;20748395
+15;Kairó;Egyiptom;20500000
+16;Vuhan;Kína;19000000
+17;Los Angeles;Egyesült Államok;18764814
+18;Csengtu;Kína;18100000
+19;London;Egyesült Királyság;17587146
+20;Dakka;Banglades;17151925
